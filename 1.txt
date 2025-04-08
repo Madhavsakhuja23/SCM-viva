@@ -1,1 +1,5 @@
-hello madhav
+#include<stdio.h>
+int main(){
+int age,weight;
+scanf("%d %d",&age,&weight);
+if(age>18 && weight>
